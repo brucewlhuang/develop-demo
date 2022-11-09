@@ -1,0 +1,16 @@
+[int]
+  - int env variable config
+  - install package
+  - run UT
+  - build docker
+  - artifact (for install in machine)
+[stg]
+  - stg env variable config
+  - install package
+  - run UT
+  - build docker
+  - artifact (for install in machine)
+
+[workflow]
+...
+
